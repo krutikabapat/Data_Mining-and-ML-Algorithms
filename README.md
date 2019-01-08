@@ -9,4 +9,4 @@
 
 
 # ML-Algorithms
-1. KNN(Lazy learning and Non Parametric Learning)
+1. KNN (Lazy learning and Non Parametric Learning)
