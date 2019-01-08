@@ -1,7 +1,7 @@
 # Data_Preprocessing
-1.Data Pre-processing on Isurance.csv dataset(Data_Mining.ipynb).  
-2.Handling missing values in dataset(Missing_values.ipynb).  
-3.Binning and scaling in dataset.  
+1. Data Pre-processing on Isurance.csv dataset(Data_Mining.ipynb).  
+2. Handling missing values in dataset(Missing_values.ipynb).  
+3. Binning and scaling in dataset.  
 
 
 # Dataset
@@ -9,4 +9,4 @@
 
 
 # ML-Algorithms
-1. KNN
+1. KNN(Lazy learning and Non Parametric Learning)
