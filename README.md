@@ -7,3 +7,6 @@
 # Dataset
 1. Insurance.csv is the datset for pre-processing.
 
+
+# ML-Algorithms
+1.KNN
