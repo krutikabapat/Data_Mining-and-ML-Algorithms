@@ -9,4 +9,4 @@
 
 
 # ML-Algorithms
-1.KNN
+1. KNN
