@@ -6,6 +6,7 @@
 
 # Dataset
 1. Insurance.csv is the datset for pre-processing.
+2. Wholesale customers data
 
 
 # ML-Algorithms
