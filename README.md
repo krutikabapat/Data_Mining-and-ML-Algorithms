@@ -10,3 +10,4 @@
 
 # ML-Algorithms
 1. KNN (Lazy learning and Non Parametric Learning)
+2. HMM (Hidden Markov Model and Viterbi)
