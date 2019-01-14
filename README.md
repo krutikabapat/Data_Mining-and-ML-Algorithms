@@ -21,7 +21,7 @@
 1. Accuracy
 2. Confusion Matrix
 3. Precision
-4. recall
+4. recall (Sensitivity/ True Positive Rate)
 5. f1 score
 6. ROC curve
 7. Precision -recall curve
