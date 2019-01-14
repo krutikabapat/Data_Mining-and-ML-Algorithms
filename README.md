@@ -7,7 +7,7 @@
 # Dataset
 1. Insurance.csv is the datset for pre-processing.
 2. Wholesale customers data
-3. pima-indians-diabetes.data.csv (https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv")
+3. Pima-indians-diabetes.data.csv (https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv")
 
 
 # ML-Algorithms
