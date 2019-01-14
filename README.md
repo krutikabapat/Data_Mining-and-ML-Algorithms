@@ -15,3 +15,14 @@
 2. HMM (Hidden Markov Model and Viterbi)
 3. K_Means Clustering (Hierarchial CLustering)
 4. Random Forest Classifier
+
+
+# ML Evaluation Metrices
+1. Accuracy
+2. Confusion Matrix
+3. Precision
+4. recall
+5. f1 score
+6. ROC curve
+7. Precision -recall curve
+8. Average Precision
