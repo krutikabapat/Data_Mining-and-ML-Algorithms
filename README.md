@@ -26,3 +26,15 @@
 6. ROC curve
 7. Precision -recall curve
 8. Average Precision
+
+# Evaluation Metrices for Unsupervised Learning
+
+Internal goodness metrices:-
+Internal metrics do not use any external information and assess the goodness of clusters based only on the initial data.
+
+External metrics:-
+They use the information about the known true split.
+
+1. Adjusted Rand Index(ARI):-
+2. Adjusted Mutual Information(AMI)
+3. Homogenity, Completeness, V-Measure
