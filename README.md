@@ -38,3 +38,4 @@ They use the information about the known true split.
 1. Adjusted Rand Index(ARI):-
 2. Adjusted Mutual Information(AMI)
 3. Homogenity, Completeness, V-Measure
+4. Silhouette
